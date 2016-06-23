@@ -1,0 +1,6 @@
+C:\Users\student\Documents\GitHub\CSharp\Objects(non_static)1\Objects(non_static)1\bin\Debug\Objects(non_static)1.exe.config
+C:\Users\student\Documents\GitHub\CSharp\Objects(non_static)1\Objects(non_static)1\bin\Debug\Objects(non_static)1.exe
+C:\Users\student\Documents\GitHub\CSharp\Objects(non_static)1\Objects(non_static)1\bin\Debug\Objects(non_static)1.pdb
+C:\Users\student\Documents\GitHub\CSharp\Objects(non_static)1\Objects(non_static)1\obj\Debug\Objects(non_static)1.csprojResolveAssemblyReference.cache
+C:\Users\student\Documents\GitHub\CSharp\Objects(non_static)1\Objects(non_static)1\obj\Debug\Objects(non_static)1.exe
+C:\Users\student\Documents\GitHub\CSharp\Objects(non_static)1\Objects(non_static)1\obj\Debug\Objects(non_static)1.pdb

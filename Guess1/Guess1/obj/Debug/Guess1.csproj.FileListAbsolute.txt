@@ -1,0 +1,6 @@
+C:\Users\student\Documents\GitHub\CSharp\Guess1\Guess1\bin\Debug\Guess1.exe.config
+C:\Users\student\Documents\GitHub\CSharp\Guess1\Guess1\bin\Debug\Guess1.exe
+C:\Users\student\Documents\GitHub\CSharp\Guess1\Guess1\bin\Debug\Guess1.pdb
+C:\Users\student\Documents\GitHub\CSharp\Guess1\Guess1\obj\Debug\Guess1.csprojResolveAssemblyReference.cache
+C:\Users\student\Documents\GitHub\CSharp\Guess1\Guess1\obj\Debug\Guess1.exe
+C:\Users\student\Documents\GitHub\CSharp\Guess1\Guess1\obj\Debug\Guess1.pdb

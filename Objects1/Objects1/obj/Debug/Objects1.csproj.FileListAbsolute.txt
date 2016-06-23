@@ -1,0 +1,5 @@
+C:\Users\student\Documents\GitHub\CSharp\Objects1\Objects1\bin\Debug\Objects1.exe.config
+C:\Users\student\Documents\GitHub\CSharp\Objects1\Objects1\bin\Debug\Objects1.exe
+C:\Users\student\Documents\GitHub\CSharp\Objects1\Objects1\bin\Debug\Objects1.pdb
+C:\Users\student\Documents\GitHub\CSharp\Objects1\Objects1\obj\Debug\Objects1.exe
+C:\Users\student\Documents\GitHub\CSharp\Objects1\Objects1\obj\Debug\Objects1.pdb
