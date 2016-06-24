@@ -1,0 +1,15 @@
+C:\Users\student\Documents\GitHub\CSharp\WindowsFormsDatabase1\WindowsFormsDatabase1\bin\Debug\WindowsFormsDatabase1.exe.config
+C:\Users\student\Documents\GitHub\CSharp\WindowsFormsDatabase1\WindowsFormsDatabase1\bin\Debug\Clients.mdf
+C:\Users\student\Documents\GitHub\CSharp\WindowsFormsDatabase1\WindowsFormsDatabase1\bin\Debug\Clients_log.ldf
+C:\Users\student\Documents\GitHub\CSharp\WindowsFormsDatabase1\WindowsFormsDatabase1\bin\Debug\WindowsFormsDatabase1.exe
+C:\Users\student\Documents\GitHub\CSharp\WindowsFormsDatabase1\WindowsFormsDatabase1\bin\Debug\WindowsFormsDatabase1.pdb
+C:\Users\student\Documents\GitHub\CSharp\WindowsFormsDatabase1\WindowsFormsDatabase1\bin\Debug\EntityFramework.dll
+C:\Users\student\Documents\GitHub\CSharp\WindowsFormsDatabase1\WindowsFormsDatabase1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\student\Documents\GitHub\CSharp\WindowsFormsDatabase1\WindowsFormsDatabase1\bin\Debug\EntityFramework.xml
+C:\Users\student\Documents\GitHub\CSharp\WindowsFormsDatabase1\WindowsFormsDatabase1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\student\Documents\GitHub\CSharp\WindowsFormsDatabase1\WindowsFormsDatabase1\obj\Debug\WindowsFormsDatabase1.csprojResolveAssemblyReference.cache
+C:\Users\student\Documents\GitHub\CSharp\WindowsFormsDatabase1\WindowsFormsDatabase1\obj\Debug\WindowsFormsDatabase1.Form1.resources
+C:\Users\student\Documents\GitHub\CSharp\WindowsFormsDatabase1\WindowsFormsDatabase1\obj\Debug\WindowsFormsDatabase1.Properties.Resources.resources
+C:\Users\student\Documents\GitHub\CSharp\WindowsFormsDatabase1\WindowsFormsDatabase1\obj\Debug\WindowsFormsDatabase1.csproj.GenerateResource.Cache
+C:\Users\student\Documents\GitHub\CSharp\WindowsFormsDatabase1\WindowsFormsDatabase1\obj\Debug\WindowsFormsDatabase1.exe
+C:\Users\student\Documents\GitHub\CSharp\WindowsFormsDatabase1\WindowsFormsDatabase1\obj\Debug\WindowsFormsDatabase1.pdb

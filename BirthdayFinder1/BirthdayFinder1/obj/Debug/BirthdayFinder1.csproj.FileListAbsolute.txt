@@ -1,0 +1,9 @@
+C:\Users\student\Documents\GitHub\CSharp\BirthdayFinder1\BirthdayFinder1\bin\Debug\BirthdayFinder1.exe.config
+C:\Users\student\Documents\GitHub\CSharp\BirthdayFinder1\BirthdayFinder1\bin\Debug\BirthdayFinder1.exe
+C:\Users\student\Documents\GitHub\CSharp\BirthdayFinder1\BirthdayFinder1\bin\Debug\BirthdayFinder1.pdb
+C:\Users\student\Documents\GitHub\CSharp\BirthdayFinder1\BirthdayFinder1\obj\Debug\BirthdayFinder1.csprojResolveAssemblyReference.cache
+C:\Users\student\Documents\GitHub\CSharp\BirthdayFinder1\BirthdayFinder1\obj\Debug\BirthdayFinder1.Form1.resources
+C:\Users\student\Documents\GitHub\CSharp\BirthdayFinder1\BirthdayFinder1\obj\Debug\BirthdayFinder1.Properties.Resources.resources
+C:\Users\student\Documents\GitHub\CSharp\BirthdayFinder1\BirthdayFinder1\obj\Debug\BirthdayFinder1.csproj.GenerateResource.Cache
+C:\Users\student\Documents\GitHub\CSharp\BirthdayFinder1\BirthdayFinder1\obj\Debug\BirthdayFinder1.exe
+C:\Users\student\Documents\GitHub\CSharp\BirthdayFinder1\BirthdayFinder1\obj\Debug\BirthdayFinder1.pdb
